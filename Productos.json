@@ -1,0 +1,32 @@
+[
+    {
+        "Precio": 90000.0,
+        "Stock": 20,
+        "Categoria": "Computadores",
+        "Producto": "Victus"
+    },
+    {
+        "Precio": 100000.0,
+        "Stock": 40,
+        "Categoria": "Relojes",
+        "Producto": "Smartwatch"
+    },
+    {
+        "Precio": 20000.0,
+        "Stock": 5,
+        "Categoria": "Audifonos",
+        "Producto": "Airpods"
+    },
+    {
+        "Precio": 45000.0,
+        "Stock": 10,
+        "Categoria": "Celulares",
+        "Producto": "Iphone"
+    },
+    {
+        "Precio": 50000.0,
+        "Stock": 15,
+        "Categoria": "Cargadores",
+        "Producto": "120w cargador"
+    }
+]
